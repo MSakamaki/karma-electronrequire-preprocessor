@@ -21,15 +21,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MSakamaki/karma-electronrequire-preprocessor.git/issues"
+    "url": "https://github.com/MSakamaki/karma-electronrequire-preprocessor/issues"
   },
-  "homepage": "https://github.com/MSakamaki/karma-electronrequire-preprocessor.git#readme",
+  "homepage": "https://github.com/MSakamaki/karma-electronrequire-preprocessor",
   "scripts": {},
-  "maintainers": [
-    {
-      "name": "m.sakamaki",
-      "email": "mail@m-sakamaki.jp"
-    }
-  ],
   "directories": {},
 }
